@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\uzair\documents\visual studio 2017\projects\course\functions -  power\functions -  power\source.cpp(32): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  Functions -  Power.vcxproj -> C:\Users\Uzair\Documents\Visual Studio 2017\Projects\Course\Functions -  Power\Debug\Functions -  Power.exe
+  Functions -  Power.vcxproj -> C:\Users\Uzair\Documents\Visual Studio 2017\Projects\Course\Functions -  Power\Debug\Functions -  Power.pdb (Partial PDB)

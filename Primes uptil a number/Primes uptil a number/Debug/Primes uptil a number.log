@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\uzair\documents\visual studio 2017\projects\course\primes uptil a number\primes uptil a number\source.cpp(12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Primes uptil a number.vcxproj -> C:\Users\Uzair\Documents\Visual Studio 2017\Projects\Course\Primes uptil a number\Debug\Primes uptil a number.exe
+  Primes uptil a number.vcxproj -> C:\Users\Uzair\Documents\Visual Studio 2017\Projects\Course\Primes uptil a number\Debug\Primes uptil a number.pdb (Partial PDB)
