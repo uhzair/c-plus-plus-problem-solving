@@ -1,4 +1,0 @@
-﻿  Source.cpp
-c:\users\uzair\documents\visual studio 2017\projects\course\guess the number\guess the number\source.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Guess the number.vcxproj -> C:\Users\Uzair\Documents\Visual Studio 2017\Projects\Course\Guess the number\Debug\Guess the number.exe
-  Guess the number.vcxproj -> C:\Users\Uzair\Documents\Visual Studio 2017\Projects\Course\Guess the number\Debug\Guess the number.pdb (Partial PDB)
